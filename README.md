@@ -6,7 +6,7 @@ You will be required to present a 10 minute demo of your application and its fea
 Presentation date: Friday, October 8, 2021
 
 ## Requirements
-- All required business rules from the [TRMS.docx] must be implemented.  
+- All required business rules from the [Project1 TRMS.docx](https://github.com/210823-java-msa-wvu/project-1/blob/d23ac4e02ffca47d908cb1ff0217aff427be6bef/Project1%20TRMS.docx) must be implemented.  
   - (The ability for an employee to upload a document can be considered a stretch goal).
 - All application data must be stored in an RDS
   - Database must be in 3NF. 
@@ -15,6 +15,7 @@ Presentation date: Friday, October 8, 2021
   - User input validation.
   - Unit testing.
   - Styled web pages either with CSS or Bootstrap. (Don't go overboard).
+
 
 ## Tech Stck
 - Java 8
