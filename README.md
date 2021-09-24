@@ -10,7 +10,9 @@ Presentation date: Friday, October 8, 2021
   - (The ability for an employee to upload a document can be considered a stretch goal).
 - All application data must be stored in an RDS
   - Database must be in 3NF. 
+- Your application should be as RESTful as possible (at minimum it must follow the restful endpoint naming conventions).
 - Project must also have:
+  - Session Handling
   - Logging.
   - User input validation.
   - Unit testing.
@@ -28,6 +30,7 @@ Presentation date: Friday, October 8, 2021
 - JUnit
 - JDBC / Hibernate
 - JavaScript
+- AJAX / Fetch API
 - HTML
 - CSS / Bootstrap
 
