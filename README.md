@@ -3,7 +3,7 @@
 
 You will be required to present a 10 minute demo of your application and its features.  
 
-Presentation date: Friday, October 8, 2021
+Presentation date: Monday, October 11, 2021
 
 ## Requirements
 - All required business rules from the [Project1 TRMS.docx](https://github.com/210823-java-msa-wvu/project-1/blob/d23ac4e02ffca47d908cb1ff0217aff427be6bef/Project1%20TRMS.docx) must be implemented.  
@@ -12,12 +12,15 @@ Presentation date: Friday, October 8, 2021
   - Database must be in 3NF. 
 - Your application should be as RESTful as possible (at minimum it must follow the restful endpoint naming conventions).
 - Project must also have:
-  - Session Handling
+  - Session Handling (either with Cookies or HttpSession)
   - Logging.
   - User input validation.
-  - Unit testing.
   - Styled web pages either with CSS or Bootstrap. (Don't go overboard).
 
+## Stretch Goals
+- Ability to upload attachments
+- Auto-approval after a certain period of time
+- Available reimbursement resets on the new year
 
 ## Tech Stck
 - Java 8
@@ -25,9 +28,7 @@ Presentation date: Friday, October 8, 2021
 - Apache Log4j 2
 - PostgreSQL
 - AWS RDS
-- AWS S3
 - Servlets
-- JUnit
 - JDBC / Hibernate
 - JavaScript
 - AJAX / Fetch API
